@@ -20,12 +20,12 @@ int main(void) {
 
 순서 없는 목록은 다음과 같이 작성할 수 있습니다.
 
-*깃 튜토리얼
- * 깃 clone
- * 깃 pull
- * 깃 commit
-   * 깃 commit 1)
-   * 깃 commit 2)
+* 깃 튜토리얼
+  * 깃 clone
+  * 깃 pull
+  * 깃 commit
+    * 깃 commit 1)
+    * 깃 commit 2)
 
 인용 구문은 다음과 같이 작성할 수 있습니다
 
